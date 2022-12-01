@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ExemploMVC.Migrations
 {
     [DbContext(typeof(Contexto))]
-    [Migration("20221130161319_Inicial")]
-    partial class Inicial
+    [Migration("20221130191717_Versao_1")]
+    partial class Versao1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

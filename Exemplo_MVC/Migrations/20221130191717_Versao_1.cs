@@ -5,7 +5,7 @@
 namespace ExemploMVC.Migrations
 {
     /// <inheritdoc />
-    public partial class Inicial : Migration
+    public partial class Versao1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
